@@ -1,2 +1,2 @@
 # js2-tamagotchi
-Examination project JavaScript 2
+Examination project - JavaScript 2
